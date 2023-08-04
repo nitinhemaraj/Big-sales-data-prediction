@@ -9,7 +9,7 @@ Here's a step-by-step explanation of my how big sales data prediction works:
 
 3. Exploratory Data Analysis: In this phase, analysts explore the data to gain insights and identify patterns, relationships, and trends. They may use various statistical and visual exploration techniques to understand the distribution of sales data, identify outliers or anomalies, and uncover any potential factors influencing sales performance.
 
-4.Feature Engineering: Feature engineering involves selecting and creating relevant features (variables) from the available data that can help predict future sales. This step may involve extracting meaningful information from raw data, such as creating new variables like seasonality indicators, customer segmentation, or product categorization.
+4. Feature Engineering: Feature engineering involves selecting and creating relevant features (variables) from the available data that can help predict future sales. This step may involve extracting meaningful information from raw data, such as creating new variables like seasonality indicators, customer segmentation, or product categorization.
 
 5. Model Selection: There are several predictive modeling techniques available for sales data prediction, including regression analysis, time series analysis, machine learning algorithms (e.g., random forests, support vector machines, or neural networks), and deep learning approaches. The choice of model depends on the characteristics of the data, the prediction task, and the available computing resources.
 
